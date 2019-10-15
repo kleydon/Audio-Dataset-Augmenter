@@ -1,0 +1,12 @@
+A range of background sounds to composite with foreground and middle-ground sounds:
+
+E.g:
+
+* Bathroom
+* Living Room
+* Forest
+* Inside a Car
+* Inside a train (BART)
+* Next to a refrigerator
+* Next to busy street
+* ...

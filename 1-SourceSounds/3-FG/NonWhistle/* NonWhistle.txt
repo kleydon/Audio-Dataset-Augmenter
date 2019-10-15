@@ -1,0 +1,8 @@
+Sounds that are *LIKE* the whistle device's sound, but aren't.
+
+E.g:
+* A child whistling
+* Bird sound
+* Alarm clock
+* Train whistle
+* ...

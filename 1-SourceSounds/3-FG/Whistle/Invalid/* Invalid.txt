@@ -1,0 +1,6 @@
+Sounds that DO come from a valid whistle device, but correspond to incorrectly performed respiratory maneuvers:
+
+* Whistle blown with coughing occuring
+* Whistle blown when full of water
+* Whistle blown while nasaly humming
+* ....

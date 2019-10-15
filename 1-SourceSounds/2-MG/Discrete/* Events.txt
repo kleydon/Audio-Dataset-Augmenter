@@ -1,0 +1,8 @@
+Middle-ground "event" sounds, e.g:
+
+* A cough
+* Clicks, pops, bumps and bangs
+* Keyboard sounds
+* Mobile phone alerts
+* Dog barks
+* ...

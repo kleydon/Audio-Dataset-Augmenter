@@ -1,0 +1,1 @@
+Sounds produced from a valid whistle device, via a correct respiratory maneuver.
